@@ -1,5 +1,5 @@
 # Python MATLAB Communication
-This  project package connects Python to MATLAB and vice-versa
+This  project package connects Python with MATLAB and vice-versa
 
 It featers three functionalities.
 
