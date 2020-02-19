@@ -5,8 +5,9 @@ It featers three functionalities.
 
 ## Unidirectional 
 
-### Python to MATLAB
-### MATLAB to Python
+Python to MATLAB
+
+MATLAB to Python
 
 ## Bi-directional
 
