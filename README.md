@@ -8,7 +8,7 @@ It featers three functionalities.
 ### Python to MATLAB
 ### MATLAB to Python
 
-## Bi-direction
+## Bi-directional
 
 Python to MATLAB and vise versa
 
